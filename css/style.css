@@ -167,13 +167,13 @@ sup {
 }
 
 a {
-  color: #7ab730;
+  color: #1c4472;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #527a20;
+  color: #1c4455;
   text-decoration: underline;
 }
 
@@ -2861,14 +2861,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #7ab730;
-  border-color: #7ab730;
+  color: #1c4772;
+  border-color: #1c4772;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #7ab730;
-  border-color: #7ab730;
+  background-color: #1c4772;
+  border-color: #1c4772;
 }
 
 .btn-outline-primary:focus,
@@ -9671,7 +9671,7 @@ button.bg-dark:focus {
 
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #527a20 !important;
+  color: #1c4772 !important;
 }
 
 .text-secondary {
@@ -10030,14 +10030,14 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid #7ab730;
+  border: 2px solid #1c4772;
   background: #ffffff;
-  color: #7ab730;
+  color: #1c4772;
   transition: 0.5s;
 }
 
 .service-item:hover i {
-  background: #7ab730;
+  background: #1c4772;
   color: #ffffff;
 }
 
@@ -10160,7 +10160,7 @@ h6,
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background: #7ab730;
+  background: #1c4772;
 }
 
 .blog-date::after {
